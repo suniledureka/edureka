@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edureka/static/css/main.f855e6bc.css",
+    "main.js": "/edureka/static/js/main.1c17ba1b.js",
+    "static/js/453.f80bc71f.chunk.js": "/edureka/static/js/453.f80bc71f.chunk.js",
+    "static/media/logo.svg": "/edureka/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edureka/index.html",
+    "main.f855e6bc.css.map": "/edureka/static/css/main.f855e6bc.css.map",
+    "main.1c17ba1b.js.map": "/edureka/static/js/main.1c17ba1b.js.map",
+    "453.f80bc71f.chunk.js.map": "/edureka/static/js/453.f80bc71f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1c17ba1b.js"
+  ]
+}
